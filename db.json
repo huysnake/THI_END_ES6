@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "id": 5,
+      "name": "maxbook eir3",
+      "nam": "laptop dell",
+      "nme": "máy tính bảng laptop",
+      "author": "máy siêu mượt"
+    },
+    {
+      "name": "xiaomi redmi note 11pro",
+      "nam": "điện thoại",
+      "nme": "xiaomi",
+      "author": "huy dân rắn ",
+      "id": 6
+    }
+  ]
+}
